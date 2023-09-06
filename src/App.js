@@ -4,7 +4,10 @@ import One from './One';
 
 function App() {
   return (
+    <>
     <One />
+    <h1>Kya Bolti Public🤘</h1>
+    </>
   );
 }
 
